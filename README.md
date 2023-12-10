@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadovkomronbek2009&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadovkomronbek2009" /> </p>
 
-- 🔭 I’m currently working on [Drum kit](https://ahmadovkomronbek2009.github.io/Drum_kit/)
+- 🔭 I’m currently working on [Drum kit](https://ahmadovkomronbek.github.io/Drum_kit/)
 
 - 🌱 I’m currently learning **HTML , CSS , JavaScript**
 
@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-<div align="cneter">
+<div align="center">
 
 
 <a href="https://t.me/Ahmadov_Komronbek">
