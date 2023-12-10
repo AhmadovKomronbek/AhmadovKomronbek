@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-<div align="justify">
+<div align="cneter">
 
 
 <a href="https://t.me/Ahmadov_Komronbek">
@@ -40,7 +40,7 @@
 
 </div>
 <p></p>
-<p align="justify">
+<p align="center">
 welcome to my GitHub Page. I am Ahmadov Komronbek and now Frontend student. 1 year ago I started programming. And I really like this job.
 I know HTML, CSS, JavaScript and know how to use Bootstrap and JQuery libraries.
 </p>
@@ -49,7 +49,7 @@ I know HTML, CSS, JavaScript and know how to use Bootstrap and JQuery libraries.
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
+<table align="center"> 
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -121,8 +121,5 @@ I know HTML, CSS, JavaScript and know how to use Bootstrap and JQuery libraries.
 
 
 
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
