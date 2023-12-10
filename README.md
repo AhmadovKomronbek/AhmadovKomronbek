@@ -1,16 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Komronbek</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadovkomronbek2009&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadovkomronbek2009" /> </p>
-
-- 🔭 I’m currently working on [Drum kit](https://ahmadovkomronbek2009.github.io/Drum_kit/)
-
-- 🌱 I’m currently learning **HTML , CSS , JavaScript**
-
-- 📫 How to reach me **komronhtmlcss@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ahmadovkomronbek2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmadovkomronbek2009" height="30" width="40" /></a>
@@ -26,12 +14,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadovkomronbek2009&" alt="ahmadovkomronbek2009" /></p>
  -->
+ <h1 align="center">Hi 👋, I'm Komronbek</h1>
+<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadovkomronbek2009&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadovkomronbek2009" /> </p>
+
+- 🔭 I’m currently working on [Drum kit](https://ahmadovkomronbek2009.github.io/Drum_kit/)
+
+- 🌱 I’m currently learning **HTML , CSS , JavaScript**
+
+- 📫 How to reach me **komronhtmlcss@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
 <div align="justify">
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://t.me/Ahmadov_Komronbek">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
