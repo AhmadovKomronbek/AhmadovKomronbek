@@ -58,8 +58,6 @@ I know HTML, CSS, JavaScript and know how to use Bootstrap and JQuery libraries.
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
